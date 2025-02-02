@@ -1,7 +1,6 @@
 # Hi there, I'm Kyaw Min Htet👋
 
 ## About Me
-- 🔭 I’m currently working on K-Win Tech
 - 🌱 I’m currently learning AI
 - 💬 Ask me about react & javascript
 
